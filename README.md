@@ -1,6 +1,9 @@
 # The "Guess a Number" Game
 
-![guess-the-number](https://user-images.githubusercontent.com/122818055/214568608-9420bc70-298d-438f-8c6f-a0c90372fe40.png)
+![guess-the-number](https://user-images.githubusercontent.com/122818055/214568608-9420bc70-298d-438f-8c6f-a0c90372fe40.png) 
+
+# Source code
+https://replit.com/@GeorgiNikov/guessANumberSoftUniGame#index.js
 
 # About
 The game is two-person game called "Guess the Number". The first player(the computer) thinks of an integer within a known range. The second player tries to guess the number. If the guess is incorrect, then the first player(the computer) tells the second player whether the guess was too high or too low.
