@@ -9,7 +9,7 @@ https://replit.com/@GeorgiNikov/guessANumberSoftUniGame#index.js
 The game is two-person game called "Guess the Number". The first player(the computer) thinks of an integer within a known range. The second player tries to guess the number. If the guess is incorrect, then the first player(the computer) tells the second player whether the guess was too high or too low.
 
 # Rules
-The aim of our number guess game is to guess the number that the program has come up with. The program randomly selects a number between 1 and 10. It will then ask the player to enter their guess.
+The aim of our number guess game is to guess the number that the program has come up with. The program randomly selects a number between 1 and 100. It will then ask the player to enter their guess.
 
 # Winner
 You win when you guess the correct number.
